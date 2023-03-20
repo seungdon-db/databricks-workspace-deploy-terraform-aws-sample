@@ -5,7 +5,7 @@
 ### Repo 구성 
 각 폴더별로 수록된 배포 스크립트는 다음 시나리오를 담고 있습니다.
 
-- db_no_vpce : custom VPC 에 databricks workspace를 배포합니다. [AWS quickstart](https://aws-quickstart.github.io/quickstart-databricks-unified-data-analytics-platform/) 과 동일한 
+- db_no_vpce : custom VPC 에 databricks workspace를 배포합니다. [AWS quickstart](https://aws-quickstart.github.io/quickstart-databricks-unified-data-analytics-platform/) 과 동일한 구성. 
 - db_bp_3vpce : custom VPC 에 databricks workspace를 배포합니다. 일반적으로 [권고되는 regional endpoint 구성 설정](https://aws-quickstart.github.io/quickstart-databricks-unified-data-analytics-platform/) 배포를 따라 db_no_vpce 구성에 하기 3개의 resource 가 추가로 배포되어 보안 강화 및 데이터 전송 비용 절감을 위한 구성에 적합합니다. 
 
     + S3 VPC gateway endpoint
