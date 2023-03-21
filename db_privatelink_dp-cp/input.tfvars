@@ -1,0 +1,9 @@
+env_name = "<databricks>"
+user_name = "<username>"
+region = "<ap-northeast-2>"
+databricks_account_id = "databricks"
+databricks_account_username="<databricks_username>"
+databricks_account_password="<databricks_password>"
+aws_access_key_id="<aws_access_key>"
+aws_secret_acces_key="<aws_secret>"
+databricks_aws_account_id="414351767826" # do not edit

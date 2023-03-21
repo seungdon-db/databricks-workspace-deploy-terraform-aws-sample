@@ -13,7 +13,7 @@
     + Kinesis VPC interface endpoint
 - uc : unity catalog metastore 에 관련된 S3와 IAM role들을 생성합니다. <font color=red>*WIP*</font>
 
-- privatelink: Dataplane - Control Plane 간의 연결구간은 AWS privatelink 를 사용하여 보안을 강화하는 배포 구성입니다. <font color=red>*WIP*</font>
+- db_privatelink_dp-cp: Dataplane - Control Plane 간의 연결구간을 AWS privatelink 를 사용하여 보안을 강화하는 배포 구성입니다. 
 
 ### 변수값 설정 
 
