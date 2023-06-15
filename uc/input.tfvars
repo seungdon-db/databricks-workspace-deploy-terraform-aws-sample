@@ -1,0 +1,15 @@
+env_name = "databricks"
+user_name = "aaa"
+region = "ap-northeast-2"
+databricks_account_id = "e2 acccount id here "
+databricks_account_username=""
+databricks_account_password=""
+aws_access_key_id=""
+aws_secret_acces_key=""
+databricks_aws_account_id="414351767826" # do not edit
+metastore_storage_label=""  # UC
+metastore_name=""
+metastore_label= ""
+default_metastore_workspace_id= "" # workspace id to be attached for UC   워크스페이스 생성 후 기입 
+default_metastore_default_catalog_name = ""
+databricks_workspace_url ="https://ssss.cloud.databricks.com" # 워크스페이스 생성 후 기입
